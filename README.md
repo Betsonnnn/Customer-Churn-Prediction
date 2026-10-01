@@ -77,11 +77,11 @@ The app is trained using the **Telco Customer Churn Dataset** from [IBM Sample D
 ---
 
 ## 👨‍💻 Author
-**Mirza Yasir Abdullah Baig**  
+**Betson George Abraham**  
 
-- 🌐 [Kaggle](https://www.kaggle.com/mirzayasirabdullah07)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
-- 💻 [GitHub](https://github.com/mirzayasirabdullahbaig07)  
+- 🌐 [Kaggle](https://www.kaggle.com/betsongeorgeabraham)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/betson-george-abraham-b64369329//)  
+- 💻 [GitHub](https://github.com/Betsonnnn)  
 
 ---
 
